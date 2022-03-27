@@ -32,14 +32,6 @@
       "compilerOptions": {
         "tsConfigPath": "apps/infrastructure/tsconfig.app.json"
       }
-    },
-    "api": {
-      "type": "application",
-      "root": "apps/api",
-      "sourceRoot": "apps/api/src",
-      "compilerOptions": {
-        "tsConfigPath": "apps/api/tsconfig.app.json"
-      }
     }
   }
 }
